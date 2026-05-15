@@ -1,1 +1,4 @@
-提供500张验证码训练集
+Code is licensed under MIT.
+
+Dataset is provided for educational/research purposes only.
+Original captcha ownership belongs to respective providers.
